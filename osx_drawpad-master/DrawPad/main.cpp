@@ -34,5 +34,8 @@ void DrawMain()
     DrawText("Hello, world!!", -12*14/2, -44, kColorRed);
     Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, -66, kColorGray);
+    
+    // 追加したソースコード
+    DrawCircle(x, 0, 150, kColorBlue);
 }
 
