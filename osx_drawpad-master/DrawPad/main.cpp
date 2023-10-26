@@ -37,5 +37,7 @@ void DrawMain()
     
     // 追加したソースコード
     DrawCircle(x, 0, 150, kColorBlue);
+    // 追加したソースコード1026
+    DrawCircle(x, 0, 150, kColorRed);
 }
 
